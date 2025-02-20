@@ -2,16 +2,13 @@
 
 ## 📂 폴더 구조 (Repository Structure
 
-📂 SRE-DreamTree-RoadMap
-├── 📜 README.md        # 프로젝트 개요
-├── 📁 Linux_Basics     # 리눅스 기초 학습
-├── 📁 Docker_K8s       # Docker & Kubernetes 실습
-├── 📁 Monitoring       # 모니터링 & 로깅 실습
-├── 📁 Cloud_AWS        # 클라우드 환경 학습
-├── 📁 Automation       # 자동화 & IaC
-├── 📁 Interview        # 면접 질문 정리
-├── 📁 Notes            # 학습 기록 및 노트
-
+📜 **README.md**  
+├── 📂 linux-basics     # 리눅스 학습  
+├── 📂 networking       # 네트워크 학습  
+├── 📂 cloud            # AWS/GCP 학습  
+├── 📂 devops           # DevOps 개념 및 실습  
+├── 📂 automation       # 자동화 스크립트  
+├── 📂 interview        # 면접 대비 정리  
 
 ## 🎯 목표 (Objective)
 **SRE 엔지니어로 이직하기 위한 준비 과정 정리**
